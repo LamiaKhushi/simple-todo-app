@@ -1,0 +1,19 @@
+[
+    {"task": "Learn PHP basics", "done": false},
+    {"task": "Complete Module 3 project", "done": true},
+    {"task": "Push project to GitHub", "done": false}
+]
+[
+  {
+    "task": "Complete assignment",
+    "done": false
+  },
+  {
+    "task": "Watch live class video",
+    "done": true
+  },
+  {
+    "task": "Upload project to GitHub",
+    "done": false
+  }
+]
